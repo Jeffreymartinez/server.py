@@ -1,0 +1,6 @@
+{
+  "sun": {"mass": "1.989 × 10^30 kg", "radius": "696,340 km", "surfacetemp":  "5,778 Kelvin"},
+  "distance": {"mercury": "~0.4 AU", "venus": "~0.7 AU", "earth": "1 AU", "mars": "~1.524 AU", "ceres": "~2.8 AU", "jupiter": "~5.2 AU", "saturn": "~9.6 AU", "uranus": "~19.2 AU", "neptune": "~30.1 AU", "pluto": "~39.5 AU", "haumea": "~43.1 AU", "makemake": "~45.8 AU", "eris": "~68 AU"},
+  "year": {"mercury": 88, "venus": 225, "earth": 365, "mars": 687, "ceres": 1680, "jupiter": 4333, "saturn": 10759, "uranus": 30687, "neptune": 60190, "pluto": 90530, "haumea": 103405, "makemake": 111449, "eris": 203670},
+  "day": {"mercury": 1407, "venus": 5832, "earth": 24, "mars": 24.5, "ceres": 9, "jupiter": 9.9, "saturn": 10.656, "uranus": 17.1, "neptune": 16, "pluto": 153.6, "haumea": 4, "makemake": 22.48, "eris": 25.9}
+}
